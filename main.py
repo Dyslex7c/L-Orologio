@@ -50,7 +50,7 @@ while True:
                     len(palindromes)) + " palindromes. Let us take a look at the palindrome usage represented in a tabular format below:\n\n\nPalindromes | No. of usage\n :--: | :--: "
                 for eL in unQ:
                     reply_comment += "\n" + eL + ' | ' + str(palindromes.count(eL))
-                reply_comment += "\n\n[*how to use.*](https://www.reddit.com/user/DyFogliameBot)\n\n*^This ^action ^was ^performed ^by ^a ^bot. ^If ^you ^find ^this ^information ^interesting, ^please ^do ^consider ^upvoting. ⠀*"
+                reply_comment += "\n\n[*how to use.*](https://github.com/Dyslex7c/L-Orologio)\n\n*^This ^action ^was ^performed ^by ^a ^bot. ^If ^you ^find ^this ^information ^interesting, ^please ^do ^consider ^upvoting. ⠀*"
                 comment.reply(reply_comment)
                 print(f"Replied to {user} successfully...")
     except Exception:
