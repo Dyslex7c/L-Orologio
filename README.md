@@ -29,7 +29,3 @@ Check someone else's by replying them
 ```
 
 Currently, the bot is inactive. You can make your own bot using the concept from the repo. Make sure to follow [bottiquette](https://www.reddit.com/wiki/bottiquette/).
-
-# Got Questions?
-[![Whatsapp](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/40px-WhatsApp.svg.png)](https://api.whatsapp.com/send?phone=917980369670&text=)
-¡DM me on WhatsApp!
